@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{6EF64CA9-75A7-470D-A883-3F9978AB7D7D}"
 	ProjectSection(SolutionItems) = preProject
+		Logo-64x64.png = Logo-64x64.png
 		Specs\Prometheus.Core.1.0.0.nupkg = Specs\Prometheus.Core.1.0.0.nupkg
 	EndProjectSection
 EndProject
