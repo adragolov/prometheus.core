@@ -5,8 +5,17 @@
     <Authors>Atanas Dragolov</Authors>
     <Company>Saorsa Ltd</Company>
     <Product>Prometheus Platform</Product>
-    <Description>The foundation classes and configuration of the Prometheus platform. The Promethean core provides abstract approach towards software paradigms and generic class implementations.</Description>
+    <Description>The foundation classes and configuration of the Prometheus platform. The Promethean core provides abstract approach towards software paradigms and generic class implementations using DotNetCore &gt;= 2.1.</Description>
     <NeutralLanguage>en-GB</NeutralLanguage>
+    <PackageLicenseUrl>https://en.wikipedia.org/wiki/MIT_License</PackageLicenseUrl>
+    <Copyright>Saorsa Ltd</Copyright>
+    <PackageProjectUrl>https://github.com/adragolov/prometheus.core</PackageProjectUrl>
+    <Version>1.0.1</Version>
+    <PackageTags>prometheus</PackageTags>
+    <RepositoryUrl>https://github.com/adragolov/prometheus.core/tree/release/v1.0.1</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/adragolov/prometheus.core/develop/Logo-64x64.png</PackageIconUrl>
+    <PackageReleaseNotes />
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
