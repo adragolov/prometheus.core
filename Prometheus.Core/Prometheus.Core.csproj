@@ -12,8 +12,10 @@
     <PackageProjectUrl>https://github.com/adragolov/prometheus.core</PackageProjectUrl>
     <Version>1.0.1</Version>
     <PackageTags>prometheus</PackageTags>
-    <RepositoryUrl>https://github.com/adragolov/prometheus.core</RepositoryUrl>
+    <RepositoryUrl>https://github.com/adragolov/prometheus.core/tree/release/v1.0.1</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/adragolov/prometheus.core/develop/Logo-64x64.png</PackageIconUrl>
+    <PackageReleaseNotes />
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
