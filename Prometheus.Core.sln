@@ -10,13 +10,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B26F716C-E7CB-4884-932F-582831C5C724}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE = LICENSE
+		Logo-64x64.png = Logo-64x64.png
 		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{6EF64CA9-75A7-470D-A883-3F9978AB7D7D}"
 	ProjectSection(SolutionItems) = preProject
 		Logo-64x64.png = Logo-64x64.png
-		Specs\Prometheus.Core.1.0.0.nupkg = Specs\Prometheus.Core.1.0.0.nupkg
+		Specs\Prometheus.Core.1.0.1.nupkg = Specs\Prometheus.Core.1.0.1.nupkg
 	EndProjectSection
 EndProject
 Global
